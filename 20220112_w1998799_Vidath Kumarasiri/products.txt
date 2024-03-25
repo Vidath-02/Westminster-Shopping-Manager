@@ -1,0 +1,37 @@
+Type: Electronics
+Product ID: 01
+Product Name: Television
+No:of Items: 5
+Price: 25000.0
+Warranty Period: 12
+
+Type: Electronics
+Product ID: 02
+Product Name: I phone
+No:of Items: 2
+Price: 1500000.0
+Warranty Period: 24
+
+Type: Electronics
+Product ID: 03
+Product Name: Kettle
+No:of Items: 10
+Price: 5000.0
+Warranty Period: 24
+
+Type: Clothing
+Product ID: 04
+Product Name: Shorts
+No:of Items: 25
+Price: 6000.0
+Size: Medium
+Color: Red
+
+Type: Clothing
+Product ID: 06
+Product Name: T shirst Crew Neck
+No:of Items: 55
+Price: 7000.0
+Size: Medium
+Color: Black
+
